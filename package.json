@@ -1,0 +1,10 @@
+{
+  "name": "tensorflowjs-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "@tensorflow/tfjs-node": "^4.22.0"
+  }
+}
